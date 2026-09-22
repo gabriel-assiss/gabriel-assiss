@@ -76,7 +76,8 @@ construindo APIs, regras de negócio, integrações e interfaces web com React.
 * **Git**
 * **GitHub**
 * **IntelliJ IDEA**
-
+* **VS Code**
+  
 </td>
 </tr>
 </table>
