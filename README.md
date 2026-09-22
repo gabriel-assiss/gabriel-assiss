@@ -1,200 +1,150 @@
+<div align="center">
+
 # Gabriel Assis
 
-### `Full Stack Developer • Java • Spring Boot • React`
+### `FULL STACK DEVELOPER`
 
-```text
-Building software, learning by doing.
-```
+**Java · Spring Boot · React · SQL**
 
-Estudante de **Ciência da Computação** e **Técnico em Desenvolvimento de Sistemas**, com foco em desenvolvimento **Backend Java** e construção de aplicações Full Stack.
+<br>
 
-Atualmente aprofundando conhecimentos em **Spring Boot, APIs REST, JPA/Hibernate, Spring Security e bancos de dados**, enquanto evoluo meus projetos para padrões mais próximos de aplicações reais.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gabriel-assiss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/gabrielassis0001)
 
----
+</div>
 
-## `> whoami`
-
-```java
-public class GabrielAssis {
-
-    String role = "Full Stack Developer in progress";
-    String mainFocus = "Backend Java";
-    String location = "Salvador, BA";
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "JPA / Hibernate",
-        "MySQL",
-        "React"
-    };
-
-    String currentlyLearning =
-        "Tests • Docker • Deploy • Production";
-}
-```
+<br>
 
 ---
 
-## `// Tech Stack`
+<div align="center">
 
-**Backend**
+### Building web applications from database to interface.
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate`
-`Spring Security` `JWT` `Maven`
+**Full Stack Developer** com foco em **Java e Spring Boot**,
+construindo APIs, regras de negócio, integrações e interfaces web com React.
 
-**Frontend**
-
-`JavaScript` `React` `Vite` `React Router` `CSS`
-
-**Database**
-
-`MySQL` `PostgreSQL` `SQL`
-
-**Tools**
-
-`Git` `GitHub` `IntelliJ IDEA`
+</div>
 
 ---
 
-## `// Featured Projects`
+## `01` — Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Backend
+
+* ☕ **Java**
+* 🌱 **Spring Boot**
+* 🔐 **Spring Security**
+* 🗃️ **JPA / Hibernate**
+* 📦 **Maven**
+* 🔑 **JWT**
+
+</td>
+
+<td valign="top" width="50%">
+
+### Frontend
+
+* ⚛️ **React**
+* 🟨 **JavaScript**
+* ⚡ **Vite**
+* 🎨 **CSS**
+* 🧭 **React Router**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Database
+
+* 🐬 **MySQL**
+* 🐘 **PostgreSQL**
+* **SQL**
+
+</td>
+
+<td valign="top">
+
+### Tools
+
+* **Git**
+* **GitHub**
+* **IntelliJ IDEA**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02` — Selected Projects
+
+<br>
 
 ### 📦 Sistema de Gestão de Estoque
 
-> **Status: `🚧 Em desenvolvimento`**
+> **Java · Spring Boot · JPA · Hibernate · MySQL**
 
-Projeto focado em gerenciamento de estoque e aplicação de regras de negócio em uma API REST.
+Sistema de gerenciamento de estoque com produtos, compras, fornecedores, funcionários e movimentações.
 
-```text
-Java
- └── Spring Boot
-      ├── REST API
-      ├── Spring Data JPA
-      ├── Hibernate
-      ├── Business Rules
-      ├── Exception Handling
-      └── Transactions
-               │
-               ▼
-            MySQL
-```
+**Status:** `🚧 Em desenvolvimento`
 
-**Atualmente trabalhando em:**
+[**View repository →**](https://github.com/gabriel-assiss/sistema-estoque)
 
-* DTOs e organização das respostas da API
-* Exceções específicas de negócio
-* `@RestControllerAdvice`
-* Regras de compra e movimentação de estoque
-* Transações com `@Transactional`
-* Relacionamentos entre entidades
-
-**Próximos passos**
-
-`Unit Tests` → `Docker` → `Environment Variables` → `Deploy` → `Rate Limiting`
-
-**Repository:**
-`github.com/gabriel-assiss/sistema-estoque`
+<br>
 
 ---
 
 ### 🎫 Sistema de Chamados
 
-> **Status: `✓ Concluído`**
+> **Java · Spring Boot · Spring Security · JWT · MySQL**
 
-API REST desenvolvida para gerenciamento de chamados com autenticação e autorização.
+API REST para gerenciamento de chamados com autenticação, autorização baseada em roles e regras de negócio.
 
-**Principais implementações**
+**Status:** `✓ Concluído`
 
-```text
-JWT Authentication
-        ↓
-Spring Security
-        ↓
-Roles & Permissions
-        ↓
-REST API
-        ↓
-JPA / Hibernate
-        ↓
-MySQL
-```
+[**View repository →**](https://github.com/gabriel-assiss/sistemas-de-chamados)
 
-* Autenticação com JWT
-* BCrypt
-* Controle de acesso por roles
-* DTOs
-* APIs REST
-* Persistência com JPA
-* Arquitetura em camadas
-* Regras de negócio
-
-**Repository:**
-`github.com/gabriel-assiss/sistemas-de-chamados`
+<br>
 
 ---
 
 ### 🌐 DevHub
 
-Aplicação React integrada à **GitHub API** para consulta de usuários e seus repositórios.
+> **React · JavaScript · Vite · GitHub API**
 
-`React` `Vite` `JavaScript` `GitHub API`
-
----
-
-## `// Currently Learning`
-
-```text
-                    BACKEND
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-       Testing       Docker       Deploy
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                Production Basics
-```
-
-Meu foco atual é entender não apenas **como construir uma API**, mas também como testar, empacotar, configurar e executar uma aplicação de forma mais próxima de um ambiente real.
+Aplicação web integrada à GitHub API para consulta de usuários e seus repositórios.
 
 ---
 
-## `// GitHub Stats`
+## `03` — GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-assiss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-assiss&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel-assiss&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 
-## `// Career`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-assiss&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 
-Buscando oportunidades como:
-
-`Backend Java` • `Full Stack` • `Dev I` • `Desenvolvedor Júnior`
-
-Meu objetivo é transformar conhecimento teórico em **experiência prática**, trabalhando em sistemas reais e evoluindo continuamente como desenvolvedor.
+</div>
 
 ---
 
-## `// Contact`
+<div align="center">
 
-**GitHub**
-`github.com/gabriel-assiss`
-
-**LinkedIn**
-`linkedin.com/in/gabrielassis0001`
-
----
-
-<p align="center">
-
-`Java • Spring Boot • React • SQL • Git`
+### Let's build something.
 
 <br>
 
-**Always learning. Always building.**
+**[GitHub](https://github.com/gabriel-assiss) · [LinkedIn](https://linkedin.com/in/gabrielassis0001)**
 
-</p>
+<br>
+
+`Java` `Spring Boot` `React` `SQL`
+
+</div>
