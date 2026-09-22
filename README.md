@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### Building web applications from database to interface.
+
 
 **Full Stack Developer** com foco em **Java e Spring Boot**,
 construindo APIs, regras de negócio, integrações e interfaces web com React.
@@ -29,7 +29,7 @@ construindo APIs, regras de negócio, integrações e interfaces web com React.
 ---
 
 ## `01` — Stack
-
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
