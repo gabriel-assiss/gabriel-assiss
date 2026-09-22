@@ -82,11 +82,6 @@ construindo APIs, regras de negócio, integrações e interfaces web com React.
 </table>
 
 ---
-
-<div align="center">
-
-### Let's build something.
-
 <br>
 
 **[GitHub](https://github.com/gabriel-assiss) · [LinkedIn](https://linkedin.com/in/gabrielassis0001)**
